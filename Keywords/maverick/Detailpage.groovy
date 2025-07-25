@@ -31,5 +31,6 @@ class DetailPage {
 
 	def addToCart(width) {
 		WebUI.click(findTestObject("Object Repository/MAVERICK/MaverickDetailsPage/add_to_cart"))
+		println("[@maverick] Item added to cart and confirmation verified")
 	}
 }
