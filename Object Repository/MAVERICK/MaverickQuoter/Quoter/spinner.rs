@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>spinner</name>
+   <tag></tag>
+   <elementGuidId>2d4df264-36bd-46b6-be19-b846d9fb07a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#page-attribute-loader > div.page-spinner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-attribute-loader']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#page-attribute-loader div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2f2f43b-e881-4ed5-851f-061b9be80712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-spinner</value>
+      <webElementGuid>19ed804d-bdf3-489a-b14b-ace317d84513</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-attribute-loader&quot;)/div[@class=&quot;page-spinner&quot;]</value>
+      <webElementGuid>9485a883-f300-4da0-a9d4-2f94da22e2d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-attribute-loader']/div</value>
+      <webElementGuid>b0146959-86f3-4460-a0ac-9b99821caa9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>c1511fef-f085-40e0-bf89-80d6213cfe62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

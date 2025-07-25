@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your quote has been saved_page-spinner</name>
+   <tag></tag>
+   <elementGuidId>04b15658-c280-4825-8d2a-c56b99d3f96c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.additional-wrapper.container-fluid.container-xxl > #page-quote-loader > div.page-spinner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='page-quote-loader']/div)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=&quot;Industrial &amp; Equipment Labels - Additional Details You've selected the online pr&quot;i >> #page-quote-loader div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b40efbda-af02-43e8-8f42-bb0b8b224860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-spinner</value>
+      <webElementGuid>96705bfc-d6ea-4757-90cd-8b5e0aeb22bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;wp-singular page-template page-template-page-additional-details page-template-page-additional-details-php page page-id-158 wp-theme-mlabel theme-mlabel woocommerce-js&quot;]/div[@class=&quot;additional-wrapper container-fluid container-xxl&quot;]/div[@id=&quot;page-quote-loader&quot;]/div[@class=&quot;page-spinner&quot;]</value>
+      <webElementGuid>a0028478-1ee6-4c98-907e-25540a182db2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='page-quote-loader']/div)[2]</value>
+      <webElementGuid>3a473170-28ab-4e76-b916-86863f51c2c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>5b26c599-4277-410b-8894-76363344cf42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
