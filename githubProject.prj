@@ -6,11 +6,12 @@
    <UUID>fe2cdc20-5b7b-49d4-b75d-b9723b4cd8c8</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.2.4</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.4</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/narmada/Katalon Studio/githubProject/githubProject.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
